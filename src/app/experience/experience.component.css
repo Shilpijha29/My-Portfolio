@@ -1,0 +1,26 @@
+.experience {
+    padding: 20px;
+  }
+  
+  .experience-entry {
+    background-color: #f9f9f9;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .experience-entry h3 {
+    margin-bottom: 5px;
+  }
+  
+  .experience-entry p {
+    margin: 0;
+    font-size: 14px;
+    color: #666;
+  }
+  
+  .experience-entry p:last-child {
+    margin-top: 10px;
+  }
+  
